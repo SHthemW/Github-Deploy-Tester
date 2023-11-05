@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Temp
+/UserSettings
+/ProjectSettings
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/Github-Deploy-Tester.sln
